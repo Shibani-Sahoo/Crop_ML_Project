@@ -95,9 +95,6 @@ for col in categorical_cols:
 - Normalize or scale numerical features like temperature and humidity for better model performance.
 - Encode categorical variables using techniques like one-hot encoding or label encoding.
 
-## License
-This dataset is intended for educational and research purposes. Users are encouraged to cite appropriately if used in publications.
-
 ## Acknowledgments
 Special thanks to the contributors for curating this dataset and enabling advancements in precision agriculture.
 
